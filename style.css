@@ -8,10 +8,10 @@
   --text-dark: #1E3A8A;
   --text-light: #FFFFFF;
   --accent: #60A5FA;
-  --font-display: 'Space Grotesk', sans-serif;
-  --font-body: 'Outfit', sans-serif;
-  --border-radius: 1px;
-  --box-shadow: 8px 8px 0px 0px var(--primary);
+  --font-display: 'Playfair Display', serif;
+  --font-body: 'Roboto', sans-serif;
+  --border-radius: 7px;
+  --box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
   --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
